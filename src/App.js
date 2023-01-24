@@ -4,7 +4,7 @@ import NavBar from "./components/navBar/navbar";
 
 function App() {
   return (
-    <div>
+    <div className="main">
       <NavBar />
       <CountDown />
     </div>
